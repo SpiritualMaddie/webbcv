@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import {BrowserRouter as Router, HashRouter, Route, Routes} from 'react-router-dom';
 
 import HomePage from './pages/HomePage';
 import CvPage from './pages/CvPage';
@@ -13,6 +13,7 @@ import headerImg from './img/header.jpg';
 
 export default function App() {
   return (
+    <HashRouter>
     <div className="App">
       <img className='headerImg' src={headerImg} alt='Picture of a water and trees'/>
       <Popup/>
@@ -27,5 +28,6 @@ export default function App() {
       </BrowserRouter>
       <Footer/>
     </div>
+    </HashRouter>
  );
 };

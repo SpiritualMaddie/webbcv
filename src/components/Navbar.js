@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { Link } from "react-router-dom";
 import picMe from "../img/me.png";
 
 const Navbar = () => {
@@ -27,24 +28,24 @@ const Navbar = () => {
           >
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
+                <Link to='/' className="nav-link active" aria-current="page">
                   Home
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/presentation">
+                <Link to='/presentation' className="nav-link">
                   Presentation
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/portfolio">
+                <Link to='/portfolio' className="nav-link">
                   Portfolio
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/cv">
+                <Link to='/cv' className="nav-link">
                   Cv
-                </a>
+                </Link>
               </li>
             </ul>
           </div>

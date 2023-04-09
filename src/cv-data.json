@@ -1,0 +1,208 @@
+[{
+
+    "personInfo": {
+      "name": "Madde Lundström",
+      "title": "Student",
+      "email": "maddel89@gmail.com",
+      "phone": "+46 070 624 72 42",
+      "location": {
+        "address": "Norra Kyrkogatan 2",
+        "postalCode": "824 30",
+        "city": "Hudiksvall",
+        "countryCode": "SWE",
+        "country": "Sweden"
+      },
+      "profiles": {
+        "linkedIn": "LinkedIn",
+        "url": "https://www.linkedin.com/in/madde-lundstr%C3%B6m-143925269?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIOSFavedRzi99%2Bez4bA1Yw%3D%3D"
+      }
+    },
+    "workHistory": [{
+      "id": "1",
+      "company": "Djurkollo",
+      "position": "Hunddagismedarbetare – arbetsträning",
+      "city" : "Gnarp",
+      "url": "https://www.djurkollo.se/",
+      "startDate": "JULI 2017",
+      "endDate": "DEC 2017",
+      "summary": [
+        "Arbetade bra både självständigt samt i team. Självgående. ",
+        "Fungerade bra med varierande arbetsuppgifter. ",
+        "Bemötte både människor samt djur empatiskt, tålmodigt och respektfullt. "
+      ]},
+      {
+      "id": "2",
+        "company": "Gröna Systrar",
+        "position": "Florist – arbetsträning",
+        "city" : "Hudiksvall",
+        "url": "https://gronasystrar.se/",
+        "startDate": "MAJ 2015",
+        "endDate": "FEB 2017",
+        "summary": ["Stod i kassa, skapade i butik, körde bud samt gjorde beställningar."]
+      },
+      {
+      "id": "3",
+      "company": "Salix Blomsterdesign",
+      "position": "Ägare",
+      "city" : "Hälsingland",
+      "url": "",
+      "startDate": "FEB 2012",
+      "endDate": "FEB 2013",
+      "summary": ["Onlineflorist med budbil."]
+      },
+      {
+      "id": "4",
+        "company": "Posten via Manpower",
+        "position": "Postsorterare",
+        "city" : "Hudiksvall",
+        "url": "",
+        "startDate": "OKT 2012",
+        "endDate": "FEB 2013",
+        "summary": ["Sorterade post."]
+      },
+      {
+      "id": "5",
+      "company": "Tusenfryd AS",
+      "position": "Lagermedarbetare",
+      "city" : "Vinterbro, Norge",
+      "url": "https://www.tusenfryd.no/en",
+      "startDate": "APR 2011",
+      "endDate": "DEC 2011",
+      "summary": [
+          "Vårt lilla lager försedde Norges största nöjesfält med allt som behövdes. ",
+          "Timvikarie sommaren 2010. Säsongsanställning på heltid 2011. ",
+          "Arbetade bra i högt tempo och i en snabbt föränderlig miljö. ",
+          "Skötte upplärning av en medarbetare. ",
+          "Hade tillfälligt tillstånd att köra truck under säsongen. "
+      ]},
+      {
+      "id": "6",
+        "company": "Caspersen Foto AS",
+        "position": "Postansvarig",
+        "city" : "Vestby, Norge",
+        "url": "",
+        "startDate": "APR 2010",
+        "endDate": "OKT 2010",
+        "summary": ["Ansvarig över postavdelningen samt inköp av kontorsmaterial."]
+      }],
+    "education": [{
+      "id": "1",
+      "institution": "Stockholms Universitet",
+      "area": "Sociologi",
+      "studyType": "Kurs",
+      "startDate": "MARS 2021",
+      "endDate": "AUG 2021",
+      "courses": ["Filosofi: Värdeteori och normativ etik"]
+      },
+      {
+      "id": "2",
+      "institution": "CFL - Nordanstig",
+      "area": "Blandat",
+      "studyType": "Gymnasiekurser",
+      "startDate": "AUG 2020",
+      "endDate": "JUNI 2021",
+      "courses": [
+        "Kommunikation. ",
+        "Hälsopedagogik. ",
+        "Etik och människans livsvillkor. ",
+        "Information och kommunikation 1 och 2. ",
+        "Digitalt skapande 1. ",
+        "Naturkunskap 2. "
+      ]},
+      {
+      "id": "3",
+      "institution": "Floristen Blomsterskole",
+      "area": "Florist",
+      "studyType": "Yrkeshögskola",
+      "startDate": "JAN 2011",
+      "endDate": "DEC 2011",
+      "courses": ["Blomsterbinderi"]
+      },
+      {
+      "id": "4",
+        "institution": "CUL, Hermods",
+        "area": "Programmering",
+        "studyType": "Kurs",
+        "startDate": "MARS 2022",
+        "endDate": "JUNI 2022",
+        "courses": ["Programmering 1"]
+      },
+      {
+      "id": "5", 
+        "institution": "CUL, Hudiksvall",
+        "area": "Matte",
+        "studyType": "Orienteringskurs",
+        "startDate": "JUNI 2022",
+        "endDate": "JULI 2022",
+        "courses": ["Matteprepp (kurs för att friska upp mattekunskaperna från grundskolan)"]
+      },
+      {
+      "id": "6", 
+        "institution": "Edugrade",
+        "area": "Systemutvecklare .NET med AI-kompetens",
+        "studyType": "Yrkeshögskola",
+        "startDate": "SEP 2022",
+        "endDate": "2024",
+        "courses": [
+          "Objektorienterad programmering med C# i .NET. ",
+          "Programmering av databaser & SQL. ",
+          "Projektledning & Agila metoder. ",
+          "Webbutveckling frontend med HTML5 + CSS + JavaScript. ",
+          "Webbapplikationer i C#, ASP.NET. ",
+          "Designmönster & artketektur. ",
+          "AI-komponenter och M.L i MS Azure. ",
+          "DevOps. ",
+          "LIA (Lärande I Arbete). ",
+          "Examensarbete. "
+        ]}
+    ],
+    "skills": {
+      "name": "Web Development",
+      "level": "Nybörjare",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ]
+    },
+    "programmingLanguages": {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    "spokenLanguages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Swedish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "Norwegian",
+        "fluency": "Conversational"
+      }
+    ],
+    "interests": [{
+        "name": "Nature"
+    },
+    {
+        "name": "Gaming"
+      },
+      {
+        "name": "Psychology"
+      }
+    ],
+    "projects": [{
+      "ame": "Numbers Game",
+      "url" : "https://github.com/SpiritualMaddie/NumbersGame",
+      "description": "Guess the number game.",
+      "language": "C#"
+    },
+    {
+        "name": "Database project",
+        "url" : "https://github.com/SpiritualMaddie/DataBase_Project",
+        "description": "Database project with a fictional school where you can manage the students and employees.",
+        "language": "C#, SQL, Entity Framework"
+      }]
+}]

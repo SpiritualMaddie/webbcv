@@ -19,7 +19,7 @@ export default function App() {
       <Navbar/>
       <BrowserRouter>
         <Routes>
-            <Route path="/webbcv" element={<HomePage/>} />
+            <Route path="/" element={<HomePage/>} />
             <Route path="/cv" element={<CvPage/>} />
             <Route path="/presentation" element={<PresentationPage/>} />
             <Route path="/portfolio" element={<PortfolioPage/>} />

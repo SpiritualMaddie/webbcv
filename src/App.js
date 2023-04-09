@@ -18,14 +18,12 @@ export default function App() {
       <img className='headerImg' src={headerImg} alt='Picture of a water and trees'/>
       <Popup/>
       <Navbar/>
-      <BrowserRouter>
         <Routes>
             <Route path="/" element={<HomePage/>} />
             <Route path="/cv" element={<CvPage/>} />
             <Route path="/presentation" element={<PresentationPage/>} />
             <Route path="/portfolio" element={<PortfolioPage/>} />
         </Routes>
-      </BrowserRouter>
       <Footer/>
     </div>
     </HashRouter>

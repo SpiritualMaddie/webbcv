@@ -13,10 +13,9 @@ import headerImg from './img/header.jpg';
 
 export default function App() {
   return (
-    <HashRouter>
     <div className="App">
       <img className='headerImg' src={headerImg} alt='Picture of a water and trees'/>
-      <Popup/>
+      <HashRouter>
       <Navbar/>
         <Routes>
             <Route path="/" element={<HomePage/>} />
@@ -25,7 +24,8 @@ export default function App() {
             <Route path="/portfolio" element={<PortfolioPage/>} />
         </Routes>
       <Footer/>
-    </div>
+      <Popup/>
     </HashRouter>
+    </div>
  );
 };

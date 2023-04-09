@@ -16,6 +16,7 @@ export default function App() {
     <div className="App">
       <img className='headerImg' src={headerImg} alt='Picture of a water and trees'/>
       <HashRouter>
+      <Popup/>
       <Navbar/>
         <Routes>
             <Route path="/" element={<HomePage/>} />
@@ -24,7 +25,6 @@ export default function App() {
             <Route path="/portfolio" element={<PortfolioPage/>} />
         </Routes>
       <Footer/>
-      <Popup/>
     </HashRouter>
     </div>
  );

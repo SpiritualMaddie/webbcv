@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: 'Playfair Display', serif;
@@ -13,12 +14,6 @@ body {
 
 .container-MainContent{
   background-image: url('./img/new-bg.jpeg');
-  /* background-size: cover;
-  background-position: center center;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: auto;
-  min-height: 88vh; */
 }
 
 .bigText{
@@ -218,6 +213,7 @@ body {
 
 
 /* FOOTER */
+
 footer{
   background-color: #759242;
   text-align: center;
@@ -230,20 +226,6 @@ footer{
   align-items: center;
   padding-top: 15px; 
   width: 100%;
-  /* background-color: #759242;
-  text-align: center;
-  color: white;
-  font-size: larger;
-  font-weight: bold;
-  margin-top: auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-top: auto; 
-  padding: 8% 5%;
-  width: 100%;
-  bottom: 0; */
 }
 
 .contact-socialmedia a{
@@ -278,11 +260,7 @@ footer{
   .card-group{
     flex-wrap: wrap;
   }
-  .container-MainContent{
-    background-image: url('./img/new-bg.jpeg');
-    width: 100%;
-    height: auto;
-    min-height: 88vh;
-
+  .main-content{
+    flex-direction: column;
   }
 }

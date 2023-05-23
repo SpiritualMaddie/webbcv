@@ -134,10 +134,8 @@
         "studyType": "Orienteringskurs",
         "startDate": "JUNI 2022",
         "endDate": "JULI 2022",
-        "courses": [
-            "Matteprepp (kurs för att friska upp mattekunskaperna från grundskolan)",
-            "Programmering 1"
-        ]},
+        "courses": ["Matteprepp (kurs för att friska upp mattekunskaperna från grundskolan)"]
+      },
       {
       "id": "6", 
         "institution": "Edugrade",
